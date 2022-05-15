@@ -1,0 +1,4 @@
+### Get Idade
+
+
+GET http://127.0.0.1:3000/idade?anoNascimento=1946&anoAtual=2022
